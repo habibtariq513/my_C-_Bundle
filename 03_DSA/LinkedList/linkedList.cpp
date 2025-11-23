@@ -24,15 +24,11 @@ public:
         if(head == tail == nullptr) {
             newNode->next = nullptr;
         }
-
     }
-
-
 };
 
 int main() {
     LinkedList li;
-
-
     return 0;
 }
+
